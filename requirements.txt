@@ -6,3 +6,7 @@ vibrant
 
 Dark mode
 video call
+
+Payment option
+send money
+recieve moeny
