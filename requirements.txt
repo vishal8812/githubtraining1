@@ -3,3 +3,6 @@ Emoji
 Type option
 color
 vibrant
+
+Dark mode
+video call
